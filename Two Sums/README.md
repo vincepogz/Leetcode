@@ -24,6 +24,7 @@ Input: nums = [3,3], target = 6
 Output: [0,1]
 
 # Bruteforce Result
-![](https://i.imgur.com/VbmTAZd.png)
+![](/Two%20Sums/bruteforce.PNG)
 
 # Optimized Result
+![](/Two%20Sums/optimized.PNG)
