@@ -23,8 +23,8 @@ Output: [1,2]
 Input: nums = [3,3], target = 6
 Output: [0,1]
 
-# Bruteforce Result
+### Bruteforce Result
 ![](/Two%20Sums/bruteforce.PNG)
 
-# Optimized Result
+### Optimized Result
 ![](/Two%20Sums/optimized.PNG)
